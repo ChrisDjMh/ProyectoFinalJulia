@@ -1,0 +1,1 @@
+{"features": ["avg_listening_hours_per_week", "avg_skips_per_day", "playlists_created", "music_suggestion_rating_1_to_5"], "extra": ["months_inactive", "age"], "k": 4, "silhouette": 0.1770734427542008}
